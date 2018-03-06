@@ -1,0 +1,13 @@
+{
+  "name": "topsignalplus",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "~3.5.1",
+    "cheerio": "~1.0.0-rc.2",
+    "googleapis": "~27.0.0",
+    "request": "^~2.83.0",
+    "winston": "~2.4.0"
+  }
+}
